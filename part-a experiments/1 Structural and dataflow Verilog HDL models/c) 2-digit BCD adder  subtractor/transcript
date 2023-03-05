@@ -1,0 +1,32 @@
+# vsim -c tb 
+# Start time: 21:37:09 on Mar 05,2023
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# ** Warning: singledigitbcd_adder.v(17): (vopt-2241) Connection width does not match width of port 'c_in'. The port definition is at: fa4bit.v(5).
+# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=0, Warnings=1.
+# //  Questa Sim-64
+# //  Version 2021.1 win64 Jan 19 2021
+# //
+# //  Copyright 1991-2021 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  QuestaSim and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# Loading work.tb(fast)
+#                    0ns A=5   B=9    CIN=0 M=0 COUT=1  F=4   
+#                   20ns A=9   B=9    CIN=0 M=0 COUT=1  F=8   
+#                   30ns A=1   B=9    CIN=0 M=0 COUT=1  F=0   
+#                   40ns A=9   B=9    CIN=0 M=1 COUT=0  F=9   
+#                   50ns A=9   B=5    CIN=0 M=1 COUT=1  F=3   
+#                   60ns A=5   B=9    CIN=0 M=1 COUT=0  F=5   
+#                   70ns A=5   B=2    CIN=0 M=1 COUT=1  F=2   
+#                   80ns A=9   B=1    CIN=0 M=0 COUT=1  F=0   
+# ** Note: $finish    : tb.v(39)
+#    Time: 90 ns  Iteration: 0  Instance: /tb
+# End time: 21:37:17 on Mar 05,2023, Elapsed time: 0:00:08
+# Errors: 0, Warnings: 1

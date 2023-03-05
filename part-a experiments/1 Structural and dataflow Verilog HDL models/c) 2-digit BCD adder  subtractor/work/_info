@@ -1,0 +1,158 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/Users/dell/Desktop/dic_lab/1 Structural and dataflow Verilog HDL models/c) 2-digit BCD adder  subtractor
+T_opt
+!s110 1678032429
+V1mGnelkYgl[@g93U53Sj]1
+04 2 4 work tb fast 0
+=1-82fa32506794-6404be2d-117-17e4
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+vadd_sub
+Z3 !s110 1678032420
+!i10b 1
+!s100 h>^Z6<8Wa1cK;om>B>0Je2
+IS0WPJI00RI@CYaG[k4g9a2
+R1
+w1678029176
+8add_sub_singledigitBCD.v
+Fadd_sub_singledigitBCD.v
+!i122 5
+L0 1 9
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z6 !s108 1678032420.000000
+Z7 !s107 tb.v|singledigitbcd_adder.v|fa4bit.v|fa1bit.v|complement9s_generator.v|add_sub_singledigitBCD.v|
+Z8 !s90 add_sub_singledigitBCD.v|complement9s_generator.v|fa1bit.v|fa4bit.v|singledigitbcd_adder.v|tb.v|
+!i113 0
+Z9 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vbcd_adder
+R3
+!i10b 1
+!s100 n2oJA0V<`Y1K09:kGPA871
+Id:5DFIli0fPXEcahb0;NK1
+R1
+w1678027702
+8singledigitbcd_adder.v
+Fsingledigitbcd_adder.v
+!i122 5
+L0 5 14
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R2
+vcomplement_generator
+R3
+!i10b 1
+!s100 =j0<XBFW>H]ZZ@[gIO7HT3
+Il:20aY6RdEIDHJn578CWc2
+R1
+w1678027925
+8complement9s_generator.v
+Fcomplement9s_generator.v
+!i122 5
+L0 3 19
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R2
+vfulladd
+R3
+!i10b 1
+!s100 GB=?:@lgGNMibDDoRVJm:3
+I?2iSmRl5dGE;IXmVN9fPH2
+R1
+w1678027515
+8fa1bit.v
+Ffa1bit.v
+!i122 5
+L0 4 10
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R2
+vfulladd4
+R3
+!i10b 1
+!s100 2ARF;Lhz7nDUoVB]C8C`C2
+IBfojXEQJ6;OHkIF?R2j[23
+R1
+w1678027474
+8fa4bit.v
+Ffa4bit.v
+!i122 5
+L0 5 13
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R2
+vtb
+R3
+!i10b 1
+!s100 V2gEC0mTWY:?RkAAo?mao0
+I0k>8l2iC>F9CmQ44OIZWd1
+R1
+w1678032414
+8tb.v
+Ftb.v
+!i122 5
+L0 3 44
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R2
