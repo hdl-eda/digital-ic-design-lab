@@ -1,7 +1,9 @@
-#### PART-A Experiments:
-```
-Write the Code using Verilog and simulate the following:
+## DIGITAL INTEGRATED CIRCUITS DESIGN LAB PC459EC
 
+#### PART-A Experiments:
+
+#### Write the Code using Verilog and simulate the following:
+```
 1. Write structural and dataflow Verilog HDL models for
 a) 4-bit ripple carry adder.
 b) 4-bit carry Adder – cum Subtractor.
@@ -33,9 +35,9 @@ a) 8 bit asynchronous up-down counter b) 8 bit synchronous up-down counter
 ```
 
 #### PART-B Experiments:
-```
-Transistor Level implementation of CMOS circuits using VLSI CAD tool
 
+#### Transistor Level implementation of CMOS circuits using VLSI CAD tool
+```
 1. Basic Logic Gates: Inverter, NAND and NOR
 2. Half Adder and Full Adder
 3. 2:1 Multiplexer and 4:1 Multiplexer using 2:1 Multiplexer
