@@ -54,5 +54,8 @@ initial begin
     $display("All test cases passed");
     $finish;
 end
-
+ initial begin
+    $dumpfile("a.vcd");
+    $dumpvars(1);    
+  end
 endmodule
