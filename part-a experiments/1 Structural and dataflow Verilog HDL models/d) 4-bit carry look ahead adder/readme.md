@@ -1,4 +1,2 @@
-#### Verilog HDL
+#### Verilog HDL Carry Look Ahead Adder
 
-
-#### Carry Look Ahead Adder
