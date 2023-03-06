@@ -1,5 +1,4 @@
-#### Verilog HDL
-
+#### Verilog HDL code and testbench for MUX 8x1
 
 EDAPlayground link
 
