@@ -6,3 +6,7 @@ a) 8 bit asynchronous up-down counter<br/> b) 8 bit synchronous up-down counter<
 
 a) 8 bit asynchronous up-down counter<br/>
 ![image](https://user-images.githubusercontent.com/127012447/224292252-1bb982c3-b608-43a1-9b41-93e1659c01b9.png)
+
+b) 8 bit synchronous up-down counter<br/>
+![image](https://user-images.githubusercontent.com/127012447/224293017-00864f74-4ef1-4f20-befa-badd305ebb07.png)
+
