@@ -1,6 +1,6 @@
 // Here we will learn to write a verilog HDL to design a 8 bit counter
 
-module counter(clk,reset,up_down,load,data,count);
+module counter(clk,reset,up_down,count);
   //define input and output ports
   input clk,reset,up_down;
   output reg [7:0] count;
