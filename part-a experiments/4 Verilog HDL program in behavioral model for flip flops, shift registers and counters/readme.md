@@ -1,4 +1,4 @@
 #### Verilog HDL
 
-<p>4. Write a Verilog HDL program in behavioral model for D,T and JK flip flops, shift registers and
+<p>4. Write a Verilog HDL program in behavioral model for<br/>D,T and JK flip flops,<br/>shift registers and<br/>
    counters.</p>
