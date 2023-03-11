@@ -52,3 +52,9 @@ a) 8 bit asynchronous up-down counter b) 8 bit synchronous up-down counter
 1. A total of 10 experiments must be completed in the semester.
 2. Minimum of 5 experiments from Part-A and 5 from Part-B is compulsory.
 ```
+#### EDA Software tools used:
+
+<p align="Justify">There are various EDA softwares for the same purpose. We will be using the following EDA softwares</p>
+<ol>
+<li>Part-A : Modelsim</li>
+<li>Part B : For experiments 1-4 LTSpice and For experiments 5 and 6 Microwind</li>
