@@ -1,2 +1,0 @@
-# Verilog HDL Flipflops
-
