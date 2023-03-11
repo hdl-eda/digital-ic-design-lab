@@ -1,6 +1,6 @@
-module dff(clk,rst,q);
+module dff(clk,rst,d,q);
   
-  input clk,rst;
+  input clk,rst,d;
   output reg q;
   
   always@(posedge clk)
