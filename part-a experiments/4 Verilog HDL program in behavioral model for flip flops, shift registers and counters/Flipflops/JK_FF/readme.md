@@ -1,4 +1,4 @@
-#### Verilog HDL code
+#### Verilog HDL code JK Flipflop
 
 EDAPlayground
 
