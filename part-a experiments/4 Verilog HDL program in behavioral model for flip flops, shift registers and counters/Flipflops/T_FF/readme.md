@@ -1,4 +1,4 @@
-#### Verilog HDL 
+#### Verilog HDL T flipflop
 
 EDAPlayground 
 
