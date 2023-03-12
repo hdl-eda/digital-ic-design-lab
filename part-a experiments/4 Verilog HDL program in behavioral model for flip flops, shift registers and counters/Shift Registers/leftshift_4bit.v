@@ -1,3 +1,5 @@
+//design file
+
 module leftshift_4bit(clk,rst,data_in,data_out);
   input clk,rst;
   input data_in;
