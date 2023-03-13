@@ -1,3 +1,4 @@
+`timescale 1ns/1ps
 module tb_counter_up4bit;
   
   reg clk,rst;
@@ -18,7 +19,9 @@ module tb_counter_up4bit;
   end
   
   initial
+  #200 $stop;
+  
+  initial
     $monitor("clk=%b rst=%b count=%0d", clk,rst,count);
 endmodule
-  
   
