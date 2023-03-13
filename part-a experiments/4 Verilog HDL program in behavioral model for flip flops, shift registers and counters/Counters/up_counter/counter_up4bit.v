@@ -11,4 +11,4 @@ module counter_up4bit(clk,rst,count);
         count<=count+1'b1;
     end
   
-  endclass
+  endmodule
