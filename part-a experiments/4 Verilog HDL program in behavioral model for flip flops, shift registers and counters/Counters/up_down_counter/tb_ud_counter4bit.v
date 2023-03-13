@@ -30,3 +30,4 @@ module tb;
         end
       $stop;
     end
+endmodule
