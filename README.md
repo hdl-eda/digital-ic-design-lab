@@ -70,3 +70,5 @@ https://youtube.com/playlist?list=PLxeUHjV-IBzuBtgJ1H832fSw4AaFXJCxO
 <br/><br/><b>How to contact for further queries:</b>
 Mobile: 9949-426-362
    
+   <p align="justify">One might want to check open-source frontend windows based EDA tools. Plesae take a look at this link<p/><br/>
+   https://youtube.com/playlist?list=PLxeUHjV-IBzuHPXzkbCkLVQYEsjfgxtxN
