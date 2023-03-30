@@ -1,1 +1,1 @@
-#### In this how to write simulation results to file been demonstrated 
+#### In this how to write simulation results to a file been demonstrated 
