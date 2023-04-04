@@ -19,9 +19,6 @@ module testbench;
     always #10 in = in << 1;
     always @* $display("Input: %b, Output: %b", in, out);
     
-     initial begin
-    $dumpfile("a.vcd");
-    $dumpvars(1);    
-  end
+    
     
 endmodule
