@@ -28,10 +28,5 @@ end
 initial
 $monitor("simtime=%g, a=%0d, b=%0d, sel_add1_sub0=%b, sum_diff=%0d, carry_borrow_out=%b", $time,a,b,sel_add1_sub0,sum_diff,carry_borrow_out);
 
-/*
-initial begin
-    $dumpfile("addsub.vcd");
-    $dumpvars(1);
-end
-*/
+
 endmodule
