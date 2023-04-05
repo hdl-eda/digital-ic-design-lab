@@ -1,14 +1,16 @@
 module testbench;
 
-    // Instantiate the module under test
-    encoder_8x3 dut (
-        .in(in),
-        .out(out)
-    );
+   
     
     // Define the input and output signals
     reg [7:0] in;
     wire [2:0] out;
+    
+     // Instantiate the module under test
+    encoder_8x3 dut (
+        .in(in),
+        .out(out)
+    );
     
     // Initialize the inputs
     initial begin
