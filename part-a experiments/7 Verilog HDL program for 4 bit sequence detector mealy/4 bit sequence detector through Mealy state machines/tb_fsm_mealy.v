@@ -1,4 +1,4 @@
-```
+
 // testbench
 
 module TB;
@@ -39,4 +39,3 @@ module TB;
     $dumpvars(0);
   end
 endmodule
-```
