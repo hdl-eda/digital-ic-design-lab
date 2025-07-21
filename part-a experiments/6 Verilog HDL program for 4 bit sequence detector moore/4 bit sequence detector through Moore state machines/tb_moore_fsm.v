@@ -33,10 +33,5 @@ module TB;
     $finish;
   end
   
-  initial begin
-    // Dump waves
-    $dumpfile("dump.vcd");
-    $dumpvars(0);
-  end
-endmodule
+ endmodule
 
