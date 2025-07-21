@@ -1,4 +1,3 @@
-```
 
 // Moore FSM
 module seq_detector_1010(input bit clk, rst_n, x, output reg z);
@@ -53,4 +52,4 @@ module seq_detector_1010(input bit clk, rst_n, x, output reg z);
     endcase
   end
 endmodule
-```
+
