@@ -1,4 +1,4 @@
-```
+
 // Mealy fsm - 1010 Non-Overlapping Mealy Sequence Detector
 
 module seq_detector_1010(input bit clk, rst_n, x, output z);
@@ -38,4 +38,3 @@ module seq_detector_1010(input bit clk, rst_n, x, output z);
   end
   assign z = (state == D) && (x == 0)? 1:0;
 endmodule
-```
