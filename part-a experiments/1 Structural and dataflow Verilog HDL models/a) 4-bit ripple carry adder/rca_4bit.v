@@ -3,13 +3,13 @@
 
 module adder_4bit (a,b,sum,cout);
 
-output [3:0]sum;
-output cout;
-
 input [3:0]a;
 input [3:0]b;
 
-  wire [2:0]c;
+output [3:0]sum;
+output cout;
+
+wire [2:0]c;
 
   full_adder u0 (a[0],b[0],1'b0,sum[0],c[0]);
   full_adder u1 (a[1],b[1],c[0],sum[1],c[1]);
