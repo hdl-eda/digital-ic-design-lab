@@ -10,7 +10,10 @@ reg [3:0] b;
 // Outputs
 wire [3:0] sum;
 wire cout;
-
+  
+  //Uncomment the following if 2nd testing method is used.
+ // integer i;
+  
 // Instantiate the Unit Under Test (UUT)
 adder_4bit dut(a,b,sum,cout);
 initial begin
@@ -31,7 +34,7 @@ b = 6;
 #10;
 $stop;
   
-  //The other way of testing: following uses a for-loop with 16 different inputs
+  //2nd testing method: following uses a for-loop with 16 different inputs
   /*
   for(i=0; i<=15; i=i+1) begin
   a=$random%15;
