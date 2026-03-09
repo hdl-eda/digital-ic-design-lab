@@ -1,4 +1,4 @@
-#### Verilog HDL Comparator 4-bit
+#### Verilog HDL Comparator 4-bit[Bit-slice comparator]
 
 EDAPlayground 
 
